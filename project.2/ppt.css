@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(161, 144, 238);
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 0, 0);
+    background-color: rgb(0, 255, 76);
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    text-shadow: 10px;
+}
+
+h3{
+    text-align:center;
+    background-color: rgb(173, 230, 187);
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#input{
+    background-color: red;
+}
+img{
+    border-radius: 100px;
+    image-resolution: 200px;
+}
